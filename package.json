@@ -1,0 +1,14 @@
+{
+  "name": "githubaction",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000G\u0000i\u0000t\u0000h\u0000u\u0000b\u0000A\u0000c\u0000t\u0000i\u0000o\u0000n\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.48.2",
+    "@types/node": "^22.9.0"
+  }
+}
